@@ -1,5 +1,5 @@
 # RT-qPCR
-Simple RT-qPCR data analysis and visualization
+Simple RT-qPCR data analysis and visualization.
 
 This script lets you calculate delta CT, assuming perfect primer efficiency. If your primer efficiency is not between 90-100%, calculate an efficiency score by dividing the percent score by 100 and adding 1. For example, if the primer efficiency was 85%, the efficiency score would be: 85/100+1=1.85. In that case, replace the value "2" in lines 36 and 38 with the real efficiency scores for the reference and target genes.
 
