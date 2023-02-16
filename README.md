@@ -8,3 +8,5 @@ Next, an analysis of variance (ANOVA) is performed with Tukey's HSD (honestly si
 Finally, mean and standard deviation are calculated for relative expression values. These values are plotted using bar plots with the letters denoting statistical significance above.
 
 The sample data includes average CT values obtained from three technical replicates; three biological replicates were analyzed. The expression of three genes (two target genes and one reference gene) for two lines (wild type and mutant) was analyzed.
+
+![Test RT-qPCR2](https://user-images.githubusercontent.com/125211875/219329001-67fc810f-81cb-410f-ae5e-5dba7b77a3b1.png)
